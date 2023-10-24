@@ -9,6 +9,7 @@ def index():
     homepage += "<a href=/today>顯示日期時間</a><br>"
     homepage += "<a href=/welcome?nick=王琮善>傳送使用者暱稱</a><br>"
     homepage += "<a href=/about>琮善簡介網頁</a><br>"
+    homepage += "<a href=/account>帳號密碼</a><br>"
     return homepage
 
 
